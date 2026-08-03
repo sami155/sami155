@@ -1,2 +1,6 @@
 title: Sami155 Page
-theme: minima
+remote_theme: jekyll/minima@d4d779a
+minima:
+skin: auto
+date_format: "%d-%m-%Y"
+hide_site_feed_link: true
