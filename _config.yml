@@ -1,10 +1,10 @@
 # Site-wide settings
 # ------------------
 #
-# title: Your awesome title
+title: Website test
 #
 # author:
-#   name: GitHub User
+name: sami155
 #   email: your-email@domain.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
@@ -20,13 +20,13 @@
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-# theme: minima
+#theme: minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
 #   It is best that you lock to a particular commit and update if upstream changes
 #   do not affect your site adversely.
-# remote_theme: jekyll/minima@d4d779a
+ remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
 # plugins:
@@ -54,7 +54,7 @@
 #     * solarized-light    Light variant of solarized color scheme.
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
-#   skin: auto
+   skin: auto
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
