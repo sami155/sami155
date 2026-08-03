@@ -1,7 +1,5 @@
 ---
 layout: home
-title: home1
+title: Sami155 Page
 ---
-
-### Title first article
-test text
+Here you can find various stuff below:
